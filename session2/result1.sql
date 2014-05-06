@@ -1,0 +1,10 @@
+﻿INSERT INTO "problem1" VALUES('a', false, 'verschilende Vs kunnen dezelfde C hebben'),
+	('b', true, 'als je V weet weet je ook C'),
+	('c', false, 'je kan meerdere Ps hebben per F en A'),
+	('d', true, 'als je het P weet, weet je ook A en F'),
+	('e', true, 'als je P weet, dan weet je ook G en O'),
+	('f', false, 'een B kan voor meerdere Vs gerechtigd zijn'),
+	('g', true, 'een V kan 1 B hebben'),
+	('h', true, 'zie g'),
+	('i', true, 'zie b'),
+	('j', true, 'zie h & i');
