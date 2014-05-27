@@ -1,1 +1,3 @@
-﻿UPDATE 
+﻿DELETE FROM Boek 
+SET isbn = 7654321
+WHERE isbn = 1234567;
